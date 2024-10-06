@@ -11,11 +11,11 @@
 - ✨ I have a high interest in **NLP, LLM, and other Gen-AI technologies**
 
 <div align="center">
-  <image src="https://github-readme-stats.vercel.app/api?username=bayu-siddhi&show_icons=true&hide_border=true&bg_color=00000000&theme=dark">
-  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayu-siddhi&size_weight=0.3&count_weight=0.7&layout=compact&hide_border=true&bg_color=00000000&theme=dark">
+  <image src="https://github-readme-stats.vercel.app/api?username=bayu-siddhi&show_icons=true&hide_border=true&bg_color=00000000&theme=github_dark_dimmed">
+  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayu-siddhi&size_weight=0.3&count_weight=0.7&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark_dimmed">
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/bayu-siddhi-mukti" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg" alt="bayu-siddhi-mukti" height="30" width="40" /></a>
   <a href="https://instagram.com/bayu.siddhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg" alt="bayu.siddhi" height="30" width="40" /></a>
